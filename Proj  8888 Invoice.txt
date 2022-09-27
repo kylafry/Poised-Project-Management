@@ -1,0 +1,8 @@
+Invoice for project no.  8888
+Customer Name: Ivey Iris
+Customer Email:  iveyIris@gmail.com
+Customer Tel:  0876543879
+Customer Address:  3 Lovers Lane
+Total fee: R200000.0
+Paid to date: R150000.0
+Still owed: R50000.0

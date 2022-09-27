@@ -1,0 +1,8 @@
+Invoice for project no.  5342
+Customer Name: Darren Jeong
+Customer Email:  dar@gmail.com
+Customer Tel:  087567778
+Customer Address:  67 hello ave
+Total fee: R200000.0
+Paid to date: R50000.0
+Still owed: R150000.0

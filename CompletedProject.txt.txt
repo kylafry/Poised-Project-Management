@@ -1,0 +1,192 @@
+Project Name:  Surprise
+Project Number:  7777
+Total fee: R2000000,00
+Fee paid to date: R1500000,00
+Fee still due: R500000,00
+Project deadline:  23 June 2023
+Building Type:  House
+ERF number:  897
+Building Address:  45 Ramier Close
+Customer Name:  Donovan
+Customer Tel:  0765643245
+Customer Address:  87 Ultazier Str
+Customer Email:  donot@gmail.com
+Architect Name:  Sam
+Architect Tel:  0876567899
+Architect Address:  43 Rest Corner
+Architect Email:  samv@gmail.com
+Contractor Name:  William
+Contractor Tel:  0832564355
+Contractor Address:  65 Ternin Drive
+Contractor Email:  willshap@yahoo.com
+Status: Finalised
+Completion Date: 12 Dec 2022
+
+Project Name:  Surprise
+Project Number:  7777
+Total fee: R2000000,00
+Fee paid to date: R1500000,00
+Fee still due: R500000,00
+Project deadline:  23 June 2023
+Building Type:  House
+ERF number:  897
+Building Address:  45 Ramier Close
+Customer Name:  Donovan
+Customer Tel:  0765643245
+Customer Address:  87 Ultazier Str
+Customer Email:  donot@gmail.com
+Architect Name:  Sam
+Architect Tel:  0876567899
+Architect Address:  43 Rest Corner
+Architect Email:  samv@gmail.com
+Contractor Name:  William
+Contractor Tel:  0832564355
+Contractor Address:  65 Ternin Drive
+Contractor Email:  willshap@yahoo.com
+Status: Finalised
+Completion Date: 12 December 2022
+
+Project Name:  Flat Fry
+Project Number:  7880
+Total fee: R6700.0
+Fee paid to date: R4500.0
+Fee still due: R2200.0
+Project deadline:  12 December 2023
+Building Type:  Flat
+ERF number:  6777
+Building Address:  67 tyre Rd
+Customer Name:  Kyla
+Customer Tel:  0832342869
+Customer Address:  64 MountainSilver Dr
+Customer Email: Evergreen@gmail.com
+Architect Name:  Jeremy
+Architect Tel:  0865438745
+Architect Address:  67 tery Rd
+Architect Email:  jrid@yahoo.com
+Contractor Name:  Wian
+Contractor Tel:  0876543234
+Contractor Address:  5 Konstanz
+Contractor Email:  wawiS@gmail.com
+Status: Finalised
+Completion Date: 13 December 2022
+
+Project Name:  Flat Fry
+Project Number:  7880
+Total fee: R6700.0
+Fee paid to date: R4500.0
+Fee still due: R2200.0
+Project deadline:  12 December 2023
+Building Type:  Flat
+ERF number:  6777
+Building Address:  67 tyre Rd
+Customer Name:  Kyla
+Customer Tel:  0832342869
+Customer Address:  64 MountainSilver Dr
+Customer Email:  kyla.fry@gmail.com
+Architect Name:  Jeremy
+Architect Tel:  0865438745
+Architect Address:  67 tery Rd
+Architect Email:  jrid@yahoo.com
+Contractor Name:  Wian
+Contractor Tel:  0876543234
+Contractor Address:  5 Konstanz
+Contractor Email:  wawiS@gmail.com
+Status: Finalised
+Completion Date: 12 December 2022
+
+Project Name:  House Fry
+Project Number:  78864
+Total fee: R76000.0
+Fee paid to date: R54000.0
+Fee still due: R22000.0
+Project deadline:  3 January 2023
+Building Type:  House
+ERF number:  7665
+Building Address:  4 Heart Rd
+Customer Name:  Kyla
+Customer Tel: 08323452869
+Customer Address:  62 MountainSIlver Dr
+Customer Email:  kyla.fry@gmail.com
+Architect Name:  Jeremy
+Architect Tel:  0823556253
+Architect Address:  67 tery rd
+Architect Email:  jrid@yahoo.com
+Contractor Name:  Wian
+Contractor Tel:  0764359978
+Contractor Address:  5 Konstanz Jonkershoek
+Contractor Email:  wawiSmit@gmail.com
+Status: Finalised
+Completion Date: 14 June 2022
+
+Project Name:  Cottage Wassenaar
+Project Number:  98989
+Total fee: R500000.0
+Fee paid to date: R100000.0
+Fee still due: R400000.0
+Project deadline:  24 February 2023
+Building Type:  Cottage
+ERF number:  988
+Building Address:  87 Yoully Drive
+Customer Name: Nicolene Wassenaar
+Customer Tel:  0876564308
+Customer Address:  67 Tersio Street
+Customer Email:  nicow@gmail.com
+Architect Name: Loki Thor
+Architect Tel:  0875643323
+Architect Address:  45 Reat Street
+Architect Email:  loki@yahoo.com
+Contractor Name: Harry Thanos
+Contractor Tel:  0876543345
+Contractor Address:  45 Start Corner
+Contractor Email:  harryThan@yahoo.com
+Status: Finalised
+Completion Date: 12 December 2022
+
+Project Name:  House Jeong
+Project Number:  5342
+Total fee: R200000.0
+Fee paid to date: R50000.0
+Fee still due: R150000.0
+Project deadline:  24 July 2025
+Building Type:  House
+ERF number:  874
+Building Address:  87 Trying Lane
+Customer Name: Darren Jeong
+Customer Tel:  087567778
+Customer Address:  67 hello ave
+Customer Email:  dar@gmail.com
+Architect Name: JP duToit
+Architect Tel:  0876543996
+Architect Address:  89 ulty Str
+Architect Email:  jp@gmail.com
+Contractor Name: Raeesah Peters
+Contractor Tel:  087564323
+Contractor Address:  67 tery lane
+Contractor Email:  raee@yahoo.com
+Status: Finalised
+Completion Date: 12 December 2022
+
+Project Name:  Cabin Iris
+Project Number:  8888
+Total fee: R200000.0
+Fee paid to date: R150000.0
+Fee still due: R50000.0
+Project deadline:  13 March 2022
+Building Type:  Cabin
+ERF number:  876
+Building Address:  65 Woody Drive
+Customer Name: Ivey Iris
+Customer Tel:  0876543879
+Customer Address:  3 Lovers Lane
+Customer Email:  iveyIris@gmail.com
+Architect Name: Meow Meow
+Architect Tel:  087996345
+Architect Address:  65 Gater Corner
+Architect Email:  meowthor@yahoo.com
+Contractor Name: Evergreen Iris
+Contractor Tel:  0836087555
+Contractor Address:  87 thury rd
+Contractor Email:  evergreenIris@gmail.com
+Status:Finalised
+Completion Date: 15 August 2022
+

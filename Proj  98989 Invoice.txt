@@ -1,0 +1,8 @@
+Invoice for project no.  98989
+Customer Name: Nicolene Wassenaar
+Customer Email:  nicow@gmail.com
+Customer Tel:  0876564308
+Customer Address:  67 Tersio Street
+Total fee: R500000.0
+Paid to date: R100000.0
+Still owed: R400000.0

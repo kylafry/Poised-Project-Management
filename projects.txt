@@ -1,0 +1,96 @@
+Project Name: House Fry
+Project Number: 78864
+Total fee: R76000.0
+Fee paid to date: R54000.0
+Fee still due: R22000.0
+Project deadline:2024-01-23
+Building Type: House
+ERF number: 7665
+Building Address: 4 Heart Rd
+Customer Name:Kyla 
+Customer Tel:0836087555
+Customer Address:5 Jerry Lane
+Customer Email: kyla.fry@gmail.com
+Architect Name:Jeremy 
+Architect Tel: 0823556253
+Architect Address: 67 tery rd
+Architect Email: jrid@yahoo.com
+Contractor Name:Wian 
+Contractor Tel: 0764359978
+Contractor Address: 5 Konstanz Jonkershoek
+Contractor Email: wawiSmit@gmail.com
+Status:Finalised
+Completion Date:2022-04-14
+
+Project Name: Cottage Wassenaar
+Project Number: 98989
+Total fee: R500000.0
+Fee paid to date: R100000.0
+Fee still due: R400000.0
+Project deadline:2023-02-24
+Building Type: Cottage
+ERF number: 988
+Building Address: 87 Yoully Drive
+Customer Name:Nicolene Wassenaar
+Customer Tel:085
+Customer Address: 67 Tersio Street
+Customer Email: nicow@gmail.com
+Architect Name:Loki Thor
+Architect Tel: 0875643323
+Architect Address: 45 Reat Street
+Architect Email: loki@yahoo.com
+Contractor Name:Harry Thanos
+Contractor Tel: 0876543345
+Contractor Address: 45 Start Corner
+Contractor Email: harryThan@yahoo.com
+Status:Finalised
+Completion Date:2022-12-12
+
+Project Name: House Jeong
+Project Number: 5342
+Total fee: R200000.0
+Fee paid to date: R50000.0
+Fee still due: R150000.0
+Project deadline:2022-08-16
+Building Type: House
+ERF number: 874
+Building Address: 87 Trying Lane
+Customer Name:Darren Terry
+Customer Tel: 087567778
+Customer Address: 67 hello ave
+Customer Email: dar@gmail.com
+Architect Name:JP duToit
+Architect Tel: 0876543996
+Architect Address: 89 ulty Str
+Architect Email: jp@gmail.com
+Contractor Name:Raesah Leters
+Contractor Tel: 087564323
+Contractor Address: 67 tery lane
+Contractor Email: raee@yahoo.com
+Status:Finalised
+Completion Date:2022-12-12
+
+Project Name: Cabin Iris
+Project Number: 8888
+Total fee: R200000.0
+Fee paid to date: R150000.0
+Fee still due: R50000.0
+Project deadline:2021-03-13
+Building Type: Cabin
+ERF number: 876
+Building Address: 65 Woody Drive
+Customer Name:Ivey Iris
+Customer Tel: 0876543879
+Customer Address: 3 Lovers Lane
+Customer Email: iveyIris@gmail.com
+Architect Name:Meow Meow
+Architect Tel: 087996345
+Architect Address: 65 Gater Corner
+Architect Email: meowthor@yahoo.com
+Contractor Name:Evergreen Iris
+Contractor Tel: 0836087555
+Contractor Address: 87 thury rd
+Contractor Email: evergreenIris@gmail.com
+Status:Finalised
+Completion Date:2022-08-15
+
